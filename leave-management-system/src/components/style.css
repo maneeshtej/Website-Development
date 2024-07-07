@@ -1,0 +1,10 @@
+.loginpage {
+  background-image: url("../assets/LoginBG.svg");
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.loginform {
+  background-color: white;
+  color: black;
+}
